@@ -53,7 +53,7 @@ def index(request):
             "city_data": city_data,
         }
 
-    return render(request, "weatherapp/index.html", context)
+    return render(request, "weatherapp/index2.html", context)
 
 
 def deleteCity(request, city_id):
