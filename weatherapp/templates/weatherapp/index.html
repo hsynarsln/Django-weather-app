@@ -7,6 +7,23 @@
     <title>Weather App</title>
   </head>
   <body>
+    {% if messages %} {% for message in messages %} {{ message }} {% endfor %} {% endif %}
+
     <h1>Welcome the weather app</h1>
+
+    <form action="">
+      <input type="text" name="city" id="" placeholder="Please enter a city..." />
+      <input type="submit" value="Search" />
+    </form>
+    <br />
+
+    {% for city in city_data %} <br />
+    {{ city.city.name }} <br />
+    {{ city.temperature}} <span>&#8451;</span> <br />
+    <img src="http://openweathermap.org/img/wn/{{city.icon}}.png" alt="icon" /> <br />
+    {{ city.desc}} <br />
+    <button><a href="{% url 'delete' city.city.id %}">Delete</a></button>
+    <hr />
+    {% endfor %}
   </body>
 </html>
