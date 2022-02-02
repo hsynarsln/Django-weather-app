@@ -45,7 +45,7 @@
 
 <!-- This is an example, please update according to your application -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) 
+To clone and run this application, you'll need [Git](https://github.com/hsynarsln/Django-weather-app.git) 
 ```bash
 # Clone this repository
 $ git clone https://github.com/aaron-clarusway/django_TODO_APPS.git
