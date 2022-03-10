@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">TODO App</h1>
+<h1 align="center">Weather App</h1>
 
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 <!-- This is an example, please update according to your application -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) 
+To clone and run this application, you'll need [Git](https://github.com/hsynarsln/Django-weather-app.git) 
 ```bash
 # Clone this repository
 $ git clone https://github.com/aaron-clarusway/django_TODO_APPS.git
@@ -65,8 +65,7 @@ $ python manage.py runserver
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Email (hsyn06arslan@gmail.com)
+- GitHub (https://github.com/hsynarsln)
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin (https://www.linkedin.com/in/h%C3%BCseyin-arslan-1752b121a/)
