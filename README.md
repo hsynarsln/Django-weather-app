@@ -65,8 +65,7 @@ $ python manage.py runserver
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Email (hsyn06arslan@gmail.com)
+- GitHub (https://github.com/hsynarsln)
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin (https://www.linkedin.com/in/h%C3%BCseyin-arslan-1752b121a/)
